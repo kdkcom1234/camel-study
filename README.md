@@ -1,4 +1,9 @@
+# Camel Jbang 및 Spring Cloud 스타일로 카멜루트 실행
+<img src="create-deploy-interface.png">
+---
+
 # Camel JBang 사용법
+https://camel.apache.org/manual/camel-jbang.html
 
 ## 카멜 루트 초기화(단일 자바 파일 및 의존성 생성)
 ```shell
@@ -75,7 +80,3 @@ public class SampleRoute extends RouteBuilder {
     }
 }
 ```
-
----
-
-# Spring Cloud MSA 스타일로 카멜루트 실행
