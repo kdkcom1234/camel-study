@@ -54,7 +54,7 @@ public class SampleRoute extends RouteBuilder {
 ## 카멜 루트 코드 작성
 ```shell
 # VSCodium이 다운로드 받은 후에 실행됨
-camel edit SampleRoute.java
+jbang edit SampleRoute.java
 ```
 
 ### 의존성 관리
